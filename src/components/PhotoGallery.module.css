@@ -1,0 +1,6 @@
+.imgContainer {
+  display: grid;
+  grid-auto-columns: 200px;
+
+  gap: 1rem;
+}
